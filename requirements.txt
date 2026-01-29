@@ -1,1 +1,3 @@
-
+Pillow==10.1.0  # 图片预处理（裁剪/分辨率调整）
+ffmpeg-python==0.2.0  # FFmpeg 封装（可选，核心用原生FFmpeg）
+pydub==0.25.1  # 音频校验（音量检查）
