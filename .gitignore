@@ -1,1 +1,23 @@
+# Python 依赖
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# 临时文件
+image_list.txt
+temp_video.mp4
+audio.mp3
+sub.srt
+*.log
+
+# 输出文件
+output/
+
+# 图片预处理目录
+source/manga/processed/
+
+# 系统文件
+.DS_Store
+Thumbs.db
